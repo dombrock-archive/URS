@@ -16,7 +16,7 @@ This todo list is in no particular order and if you find something that you thin
 
 -Add to and improve word lists 
 
--Correctly format HTML in the ````seeker.html```` file.
+-Correctly format HTML in the ````seeker.html```` file
 
 -Move the JS and CSS from ````seeker.html```` into thier own respective files
 
