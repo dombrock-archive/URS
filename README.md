@@ -17,7 +17,7 @@ To get this running on your server, just clone it. No additional setup is needed
 Here I will list the options in the order they are currently presented in the UI from top right to bottom left. 
 
 ####BASE URL:
-This is the URL that you want to scan. It should always start with a protocol such as `https://` or `http://`. It should ALWAYS end in a trailing slash.
+This is the URL that you want to scan. It should always start with a protocol such as 'https://' or 'http://'. It should ALWAYS end in a trailing slash.
 
 ````http://mzero.space/```` OK
 
@@ -40,7 +40,7 @@ Show 'ONLY 200' will show only files that are reporting a 200 status code. This 
 Show 'SHOW ALL' will show every single attempt made on the server, this is the most verbose of the options. This will show even files with no result on the server whatsoever. 
 
 ####SEARCH FOR:
-You will probably want to leave this at it's default value unless you want to look for files of a specific type or files that are not listed with an extension on any word list.  Setting this to 'ONLY FILES OF TYPE' will allow you to use the 'FILE TYPE' input area to specify a file type that you want to search for. This input should be in the form of a file type extension including the dot. For example: '`.PHP`'.
+You will probably want to leave this at it's default value unless you want to look for files of a specific type or files that are not listed with an extension on any word list.  Setting this to 'ONLY FILES OF TYPE' will allow you to use the 'FILE TYPE' input area to specify a file type that you want to search for. This input should be in the form of a file type extension including the dot. For example: '.PHP'.
 
 ####FILE TYPE:
 See 'SEARCH FOR:' above for info on how to use this option. 
