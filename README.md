@@ -18,11 +18,12 @@ Here I will list the options in the order they are currently presented in the UI
 
 ####BASE URL:
 This is the URL that you want to scan. It should always start with a protocol such as 'http://' or 'https://'. It should ALWAYS end in a trailing slash.
-````http://mzero.space/```` OK
-````https://www.google.com/```` OK
-````https://www.google.com```` NOT OK
-````www.google.com/```` NOT OK
-````https://www.google.com```` NOT OK
+
+````http://mzero.space/```` OK  
+````https://www.google.com/```` OK  
+````https://www.google.com```` NOT OK  
+````www.google.com/```` NOT OK  
+````https://www.google.com```` NOT OK  
 
 ####WORD LIST:
 Select which word list you would like to use for your search. Some lists search just for directories, some search just for files and some for both. The name of the word list should be pretty self explanatory and is also indicative of the relative path and file name of the word list. At the end of the options, there is a link to look at the word_bank directory. Use this if you want to read through or edit the raw word lists.
