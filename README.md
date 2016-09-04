@@ -17,7 +17,7 @@ To get this running on your server, just clone it. No additional setup is needed
 Here I will list the options in the order they are currently presented in the UI from top right to bottom left. 
 
 ####BASE URL:
-This is the URL that you want to scan. It should always start with a protocol such as TEST. It should ALWAYS end in a trailing slash.
+This is the URL that you want to scan. It should always start with a protocol such as 'http://' or 'https://'. It should ALWAYS end in a trailing slash.
 
 ````http://mzero.space/```` OK
 
