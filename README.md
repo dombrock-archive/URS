@@ -53,6 +53,6 @@ Do you really need to know what this does? If you do, it will start the applicat
 
 ####EXPORT LIST:
 Creates a text box with some specs about out scan and a CSV generated based off our current results. Use this to save your data. 
-
+ 
 
 
